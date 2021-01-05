@@ -28,5 +28,12 @@ For our experiments, we used the official implementations of [RSDA](https://gith
 If you use our datasets, please consider citing:
 
 ```
-tbd
+@InProceedings{Ringwald_2021_WACV,
+    author    = {Ringwald, Tobias and Stiefelhagen, Rainer},
+    title     = {Adaptiope: A Modern Benchmark for Unsupervised Domain Adaptation},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2021},
+    pages     = {101-110}
+}
 ```
