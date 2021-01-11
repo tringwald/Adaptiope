@@ -25,7 +25,7 @@ For our experiments, we used the official implementations of [RSDA](https://gith
 
 # Citation
 
-If you use our datasets, please consider citing:
+If you use our datasets, please consider citing our [paper](https://openaccess.thecvf.com/content/WACV2021/html/Ringwald_Adaptiope_A_Modern_Benchmark_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.html) ([PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Ringwald_Adaptiope_A_Modern_Benchmark_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf)):
 
 ```
 @InProceedings{Ringwald_2021_WACV,
